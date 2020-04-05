@@ -1,4 +1,4 @@
-package kyu_5;
+package kyu_5.CountIPAdress;
 
 import java.util.Arrays;
 
