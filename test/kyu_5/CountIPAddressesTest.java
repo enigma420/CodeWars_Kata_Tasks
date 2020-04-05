@@ -2,6 +2,7 @@ package kyu_5;
 
 import static org.junit.Assert.assertEquals;
 
+import kyu_5.CountIPAdress.CountIPAddresses;
 import org.junit.Test;
 
 public class CountIPAddressesTest {
